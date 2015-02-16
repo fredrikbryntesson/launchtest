@@ -1,8 +1,5 @@
 Source: rock
-Package: rock
-Version: 1.0-1
 Section: base
 Priority: optional
-Architecture: amd64
 Maintainer: Fredrik Bryntesson <fredrik.bryntesson@imint.se>
-Description: Compiler for OOC, Imint version.
+
