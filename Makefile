@@ -18,7 +18,7 @@ OOC_CMD:=$(OOC) $(OOC_OWN_FLAGS) $(OOC_FLAGS)
 
 IS_BOOTSTRAP:=$(wildcard build/Makefile)
 
-all: bootstrap
+all: rescue
 
 # Regenerate NagaQueen.c from the greg grammar
 # you need ../nagaqueen and greg to be in your path
