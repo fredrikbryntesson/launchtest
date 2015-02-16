@@ -4,6 +4,5 @@ Version: 1.0-1
 Section: base
 Priority: optional
 Architecture: amd64
-Depends: 
 Maintainer: Fredrik Bryntesson <fredrik.bryntesson@imint.se>
 Description: Compiler for OOC, Imint version.
